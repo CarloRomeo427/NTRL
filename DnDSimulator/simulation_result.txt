@@ -1,0 +1,35 @@
+Simulation estimates:
+_____________________
+Win Probability: 100.0 %
+Fight Length: 2.5 +/- 0.5
+Team Health: 84.2 %
+Total Party Kill: 0.0 %
+
+
+
+
+Wizard Lv5 cast burning hands: 0.05
+Wizard Lv5 cast magic missile: 0.88
+Wizard Lv5 cast armor of agathys: 0.3
+Wizard Lv5 cast shield: 0.12
+Wizard Lv5 cast shatter: 0.1
+Wizard Lv5 cast fireball: 2.39
+Wizard Lv5 cast haste: 0.21
+Ranger Lv5 cast cure wounds: 0.07
+Ranger Lv5 cast healing word: 0.15
+Ranger Lv5 cast hunters mark: 1.64
+Ranger Lv5 cast shatter: 1.46
+Wizard Lv5 cast burning hands: 0.01
+Wizard Lv5 cast magic missile: 0.79
+Wizard Lv5 cast armor of agathys: 0.25
+Wizard Lv5 cast shield: 0.19
+Wizard Lv5 cast shatter: 0.13
+Wizard Lv5 cast fireball: 2.49
+Wizard Lv5 cast haste: 0.21
+Wizard Lv5 cast burning hands: 0.09
+Wizard Lv5 cast magic missile: 0.78
+Wizard Lv5 cast armor of agathys: 0.25
+Wizard Lv5 cast shield: 0.08
+Wizard Lv5 cast shatter: 0.13
+Wizard Lv5 cast fireball: 2.4
+Wizard Lv5 cast haste: 0.22
