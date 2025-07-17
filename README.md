@@ -72,3 +72,7 @@ If you use the code or ideas from this project in your research, please cite our
 ---
 ## Acknowledgments
 This code leverages the **AMAZING** Dungeons & Dragons Combat Simulator created by DanielK314. The simulated combat environment was essential for training our agent. You can find the original repository here: [https://github.com/DanielK314/DnDSimulator.git](https://github.com/DanielK314/DnDSimulator.git)
+
+---
+## Disclaimer
+This project is an independent fan-made tool and is not affiliated with, endorsed, sponsored, or approved by Wizards of the Coast LLC. Dungeons & Dragons and related materials are trademarks of Wizards of the Coast. All references to game mechanics, rules, and materials are used under fair use for educational and research purposes.
