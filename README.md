@@ -4,7 +4,7 @@
 
 
 
-Tired of your DM's "deadly" encounters being about as threatening as a fluffy kitten? Or the opposite, where a "medium" challenge accidentally turns into a TPK because the rulebook lied? This project is for you.
+Tired of your DM's "deadly" encounters being about as threatening as a fluffy kitten? Or the opposite, where a "medium" challenge accidentally turns into a TPK? This project is for you.
 
 We've created an AI that went to the school of hard knocks—by running thousands of simulated D&D battles—to learn how to be the perfect Dungeon Master for combat. It designs challenging, tactical, and most importantly, *fun* encounters automatically.
 
