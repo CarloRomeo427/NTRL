@@ -33,7 +33,7 @@ Ready to summon your own AI DM? Just follow these simple steps.
 
 Clone this repository to your local machine.
 ```bash
-git clone [https://github.com/your-username/NTRL.git](https://github.com/your-username/NTRL.git)
+git clone https://github.com/CarloRomeo427/NTRL.git
 cd NTRL
 pip install -r requirements.txt
 python simulate.py [OPTIONS]
